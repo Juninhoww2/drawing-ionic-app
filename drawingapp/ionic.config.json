@@ -1,0 +1,7 @@
+{
+  "name": "drawingapp",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
